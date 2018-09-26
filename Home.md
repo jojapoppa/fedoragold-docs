@@ -4,11 +4,8 @@
 
 This wiki is the main source of documentation for newcomers to the TurtleCoin project. If this is your first time hearing about TurtleCoin, we recommend starting with the [TurtleCoin website](https://turtlecoin.lol/).
 
-## What is TurtleCoin?
+## What is FedoraGold?
 
-TurtleCoin is a fast, easy and private cryptocurrency which allows you to send money to friends and businesses.
-
-One of TurtleCoin's main goals is to make things as simple and as accessible as possible for everyday people, creating a cryptocurrency which is inviting, fun and friendly.
 
 ## Quick Navigation
 
